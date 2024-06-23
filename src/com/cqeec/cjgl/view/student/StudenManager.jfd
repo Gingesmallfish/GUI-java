@@ -1,0 +1,77 @@
+JFDML JFormDesigner: "8.2.2.0.382" Java: "17.0.10" encoding: "UTF-8"
+
+new FormModel {
+	contentType: "form/swing"
+	root: new FormRoot {
+		add( new FormWindow( "javax.swing.JFrame", new FormLayoutManager( class java.awt.BorderLayout ) ) {
+			name: "this"
+			add( new FormContainer( "javax.swing.JPanel", new FormLayoutManager( class java.awt.FlowLayout ) {
+				"hgap": 10
+				"vgap": 10
+			} ) {
+				name: "panel1"
+				add( new FormComponent( "javax.swing.JButton" ) {
+					name: "flushed"
+					"text": "刷新"
+					addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "flushed", true ) )
+				} )
+				add( new FormComponent( "javax.swing.JButton" ) {
+					name: "button2"
+					"text": "新增"
+					addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "RevaeL", true ) )
+				} )
+				add( new FormComponent( "javax.swing.JButton" ) {
+					name: "Update"
+					"text": "修改"
+					addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "Updata", true ) )
+				} )
+				add( new FormComponent( "javax.swing.JButton" ) {
+					name: "delete"
+					"text": "删除"
+					addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "delete", true ) )
+				} )
+			}, new FormLayoutConstraints( class java.lang.String ) {
+				"value": "South"
+			} )
+			add( new FormContainer( "javax.swing.JScrollPane", new FormLayoutManager( class javax.swing.JScrollPane ) ) {
+				name: "scrollPane1"
+				add( new FormComponent( "javax.swing.JTable" ) {
+					name: "table1"
+					"model": new com.jformdesigner.model.SwingTableModel( new java.util.Vector {
+						add( new java.util.Vector {
+							add( null )
+							add( null )
+							add( null )
+						} )
+						add( new java.util.Vector {
+							add( null )
+							add( null )
+							add( null )
+						} )
+					}, new java.util.Vector {
+						add( "学号" )
+						add( "姓名" )
+						add( "性别" )
+					}, new java.util.Vector {
+						add( class java.lang.String )
+						add( class java.lang.String )
+						add( class java.lang.String )
+					}, new java.util.Vector {
+						add( null )
+						add( null )
+						add( null )
+					}, new java.util.Vector {
+						add( null )
+						add( null )
+						add( new com.jformdesigner.model.SwingTableColumn( new java.lang.Object[ "男", "女" ], 0, 0, 0, true ) )
+					} )
+				} )
+			}, new FormLayoutConstraints( class java.lang.String ) {
+				"value": "Center"
+			} )
+		}, new FormLayoutConstraints( null ) {
+			"location": new java.awt.Point( 0, 0 )
+			"size": new java.awt.Dimension( 400, 300 )
+		} )
+	}
+}

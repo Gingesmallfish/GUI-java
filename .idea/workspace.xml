@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a2f6eb1-7669-4c97-a528-3c1a502ad2ce" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Performance-management-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/CourseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/GradeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/StudentModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JGoodies_Forms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/Login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/Login.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/Login/Login.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/Login/MainForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/MainForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/Login/MainForm.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/AddStudentForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/student/AddStudentForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/AddStudentForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/student/AddStudentForm.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/DataStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/StudenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/student/StudenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/StudenManager.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/student/StudenManager.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/DataCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/DataCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/DataGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/model/DataGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/entity/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/ScoreManagerForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/grade/ScoreManagerForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cjgl/ScoreManagerForm.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/grade/ScoreManagerForm.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/AddCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/course/AddCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/AddCourse.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/course/AddCourse.jfd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/Datakc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/Kcgl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/course/CourseKc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kc/Kcgl.jfd" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqeec/cjgl/view/course/CourseKc.jfd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iGaHTT7dNZkgtOBWf1vNNAhDy3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/java成绩管理系统最终版/Performance-management-system&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Debug&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java成绩管理系统最终版\Performance-management-system\src\com\cqeec\cjgl\view\course" />
+      <recent name="E:\java成绩管理系统最终版\Performance-management-system\src\com\cqeec\cjgl\view\student" />
+      <recent name="E:\java成绩管理系统最终版\Performance-management-system\src\com\cqeec\cjgl\view\grade" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Performance-management-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3a2f6eb1-7669-4c97-a528-3c1a502ad2ce" name="更改" comment="" />
+      <created>1719119279602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719119279602</updated>
+      <workItem from="1719119280669" duration="10916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
